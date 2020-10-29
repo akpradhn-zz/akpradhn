@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Amit. I am a budding professional in the field of Data Science. 
+I am Amit Kr Pradhan and budding professional in the field of Data Science. 
 
 #### My recent works
 ---
